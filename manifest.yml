@@ -1,0 +1,6 @@
+applications:
+  - name: status-dogs 
+    memory: 16M
+    instances: 1
+env:
+    GOPACKAGENAME: main
